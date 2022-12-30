@@ -1,0 +1,41 @@
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\bin\Debug\CG Final Project.exe.config
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\bin\Debug\CG Final Project.exe
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\bin\Debug\CG Final Project.pdb
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\obj\Debug\CG_Final_Project.Form1.resources
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\obj\Debug\CG_Final_Project.Properties.Resources.resources
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.GenerateResource.Cache
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\obj\Debug\CG Final Project.exe
+c:\users\iaboo\onedrive\documents\visual studio 2012\Projects\CG Final Project\CG Final Project\obj\Debug\CG Final Project.pdb
+C:\Users\iaboo\OneDrive\Documents\Visual Studio 2012\Projects\CG Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.AssemblyReference.cache
+C:\Users\iaboo\OneDrive\Documents\Visual Studio 2012\Projects\CG Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\bin\Debug\CG Final Project.exe.config
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\bin\Debug\CG Final Project.exe
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\bin\Debug\CG Final Project.pdb
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG_Final_Project.Form1.resources
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG_Final_Project.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG Final Project.exe
+C:\Users\Lenovo\Downloads\CG Final Project\CG Final Project\obj\Debug\CG Final Project.pdb
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG Final Project.csproj.AssemblyReference.cache
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG_Final_Project.Form1.resources
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG_Final_Project.Properties.Resources.resources
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG Final Project.csproj.GenerateResource.cache
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG Final Project.csproj.CoreCompileInputs.cache
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG Final Project.exe
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\obj\Debug\CG Final Project.pdb
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\bin\Debug\CG Final Project.exe.config
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\bin\Debug\CG Final Project.exe
+C:\Users\iaboo\OneDrive\Desktop\cggg\CG Final Project\bin\Debug\CG Final Project.pdb
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\bin\Debug\CG Final Project.exe.config
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\bin\Debug\CG Final Project.exe
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\bin\Debug\CG Final Project.pdb
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\obj\Debug\CG_Final_Project.Form1.resources
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\obj\Debug\CG_Final_Project.Properties.Resources.resources
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\obj\Debug\CG Final Project.csproj.GenerateResource.cache
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\obj\Debug\CG Final Project.exe
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\obj\Debug\CG Final Project.pdb
+C:\Users\iaboo\OneDrive\Desktop\Computer Graphics Final Project\CG Final Project\obj\Debug\CG Final Project.csprojResolveAssemblyReference.cache
